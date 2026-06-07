@@ -33,12 +33,12 @@ A simple and interactive Android Quiz Application developed using **Kotlin** and
 app
 ├── java
 │   ├── MainActivity.kt
-│   └── ResultActivity.kt
+│  
 │
 ├── res
 │   ├── layout
 │   │   ├── activity_main.xml
-│   │   └── activity_result.xml
+│   │   
 │   │
 │   ├── drawable
 │   │   └── quiz background images
