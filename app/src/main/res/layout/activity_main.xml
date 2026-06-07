@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/quiz1"
+    tools:context=".MainActivity">
+
+    <!-- Restart Button -->
+    <Button
+        android:id="@+id/restartquiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:text="Restart Quiz"
+        android:textSize="14sp" />
+
+    <!-- Question -->
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:gravity="center"
+        android:text="Question"
+        android:textColor="#000000"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <!-- Option 1 -->
+    <Button
+        android:id="@+id/option1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="145dp"
+        android:background="@android:color/transparent"
+        android:elevation="0dp"
+        android:stateListAnimator="@null"
+        android:text="Option 1"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Option 2 -->
+    <Button
+        android:id="@+id/option2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="18dp"
+        android:background="@android:color/transparent"
+        android:elevation="0dp"
+        android:stateListAnimator="@null"
+        android:text="Option 2"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Option 3 -->
+    <Button
+        android:id="@+id/option3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="18dp"
+        android:background="@android:color/transparent"
+        android:elevation="0dp"
+        android:stateListAnimator="@null"
+        android:text="Option 3"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Option 4 -->
+    <Button
+        android:id="@+id/option4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="18dp"
+        android:background="@android:color/transparent"
+        android:elevation="0dp"
+        android:stateListAnimator="@null"
+        android:text="Option 4"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
