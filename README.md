@@ -15,12 +15,10 @@ A simple and interactive Android Quiz Application developed using **Kotlin** and
 ## Screenshots 📱
 
 
-
-```markdown
-![Home Screen](screenshots/home.png)
-![Quiz Screen](screenshots/quiz.png)
-![Result Screen](screenshots/result.png)
-```
+![image alt](https://github.com/Aman298871/Quiz_App/blob/97778aa446554623846518b9ebb4381765c40ef9/photo_2026-06-07_19-55-42.jpg)
+![image alt](https://github.com/Aman298871/Quiz_App/blob/97778aa446554623846518b9ebb4381765c40ef9/photo_2026-06-07_19-55-43.jpg)
+![image alt](https://github.com/Aman298871/Quiz_App/blob/97778aa446554623846518b9ebb4381765c40ef9/photo_2026-06-07_19-55-45.jpg)
+![image alt](https://github.com/Aman298871/Quiz_App/blob/97778aa446554623846518b9ebb4381765c40ef9/photo_2026-06-07_19-55-46.jpg)
 
 ## Built With 🛠️
 
